@@ -6,6 +6,7 @@
     <Authors>François DORIN</Authors>
     <Company>Custom Dev</Company>
     <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <PackageLicenseUrl>https://opensource.org/licenses/MIT</PackageLicenseUrl>
   </PropertyGroup>
 
 </Project>
